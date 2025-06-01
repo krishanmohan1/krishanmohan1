@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishan17115155" target="blank"><img src="https://img.shields.io/twitter/follow/krishan17115155?logo=twitter&style=for-the-badge" alt="krishan17115155" /></a> </p>
 
-- 💬 Ask me about **Java DSA MERN System Design**
+- 💬 Ask me about **Java Javascript DSA MERN Next.js System Design**
 
 - 📫 How to reach me **krishanmohan3501@gmail.com**
 
