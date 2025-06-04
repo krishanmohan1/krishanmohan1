@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">Crafting Solutions: Java Developer & MERN Stack Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer | Rooted in Java, Growing with MERN</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF6eXNsa2E1aDFoZTJ0cjdzbWN3bmRlczVia3Jib2Nkb3Z0b3NwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
